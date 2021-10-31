@@ -1,4 +1,4 @@
-# Task/To-Do List
+# Loan Calculator
 
 A Loan Calculator using vanilla JavaScript.
 
