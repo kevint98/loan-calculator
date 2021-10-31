@@ -1,0 +1,5 @@
+# Task/To-Do List
+
+A Loan Calculator using vanilla JavaScript.
+
+_UI built with Bootstrap_
